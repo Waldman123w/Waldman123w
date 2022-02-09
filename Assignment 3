@@ -1,0 +1,35 @@
+Convert to rgb format: 
+~ #a3461f - rgb(163,70,31)
+~ #ab34c6 - rgb(171,52,198)
+~ #7feb23 - rgb(127,235,35)
+~ #b4571a - rgb(180,87,26)
+~ #6ab34c - rgb(106,179,76)
+~ #b237fe - rgb(178,55,254)
+~ #71ab45 - rgb(113,171,69)
+~ #715ab4 - rgb(113,90,180)
+
+
+Convert to hex format:
+~rgb(213,12,112) - #D50C70
+~rgb(22,126,52) - #167E34
+~rgb(213,214,4) - #D5D604
+~rgb(113,22,113) - #711671
+~rgb(126,112,172) - #7E70AC
+~rgb(142,24,241) - #8E1818
+~rgb(123,32,121) - #7B2079
+~rgb(127,123,224,4) - #7F7BE)
+
+
+
+list 4 css properties:
+1.a:link {
+    text-decoration: underline;
+    text-decoration-color: red;
+    }
+2.aside {
+    border-color: pink;
+    }
+3.body {
+    background-color: blue;
+    }
+4.text-shadow: none | [ <length>{2,3} && <color>? ]#
